@@ -1,6 +1,6 @@
 # CustomLegacyUI
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/). Lets you customize the default legacy UI you spawn from the Create New menu in the dev tool. You can change the colour and slant of the UI when you do a create. (Even make it look like neos UI if you want 😧)
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/). Lets you customize the default legacy UI you spawn from the Create New menu in the dev tool. You can change the colour and slant of the UI (even make it look like neos UI if you want 😧).
 
 
 ![legui2](https://github.com/HamoCorp/CustomLegacyUI/assets/43244781/6d7b93bc-cd05-4087-9c40-b8f3aeb93dcc)
