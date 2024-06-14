@@ -15,6 +15,7 @@ namespace CustomLegacyUI{
         public override string Name => "CustomLegacyUI";
         public override string Author => "HamoCorp";
         public override string Version => "1.0.0";
+        public override string Link => "https://github.com/HamoCorp/CustomLegacyUI/";
 
         private static ModConfiguration Config;
 
